@@ -4,7 +4,7 @@
 
 ### <span style="color: black">Hello, I am Dinushi Ariyasena. I'm 3rd year Data Science undergraduate at Sri Lanka Institute of Information Technology.</span>
 
-# [Project 1 - Adding two numbers using Machine Learning](https://github.com/DinuAR/Add_two_numbers_using_ML)
+# <span style="color: red">[Project 1 - Adding two numbers using Machine Learning](https://github.com/DinuAR/Add_two_numbers_using_ML)</span>
 
 - Use "add.csv" data set.
 - Do the EDA using matplotlib.pyplot library
