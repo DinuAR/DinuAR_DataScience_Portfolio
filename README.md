@@ -6,7 +6,18 @@
 
 # [Project 2 - Spam SMS Classification](https://github.com/DinuAR/Spam-SMS-Classification)
 
-<img width="310" alt="Screenshot 2022-07-28 at 00 06 19" src="https://user-images.githubusercontent.com/87066711/181347488-8bbbb775-7e04-449b-bb06-b7ec01c7a57e.png">  <img width="310" alt="Screenshot 2022-07-28 at 00 06 37" src="https://user-images.githubusercontent.com/87066711/181347499-a0ceb521-9996-4a80-b255-b8defabab384.png">
+- Use "spam.csv" data set. (Downloaded from Keggle)
+- Do Data Visualization.
+- Do Preprocessing.
+  * Lower Case.
+  * Tokenization.
+  * Removing Special Characters.
+  * Removing stop words and punctiations.
+  * Stemming
+- Feature Extraction.
+- Learning model.
+
+<img width="310" alt="Screenshot 2022-07-28 at 00 06 19" src="https://user-images.githubusercontent.com/87066711/181347488-8bbbb775-7e04-449b-bb06-b7ec01c7a57e.png">  <img width="404" alt="Screenshot 2022-07-28 at 00 06 37" src="https://user-images.githubusercontent.com/87066711/181347499-a0ceb521-9996-4a80-b255-b8defabab384.png">
 
 
 
