@@ -4,6 +4,18 @@
 
 ### <span style="color: black">Hello, I am Dinushi Ariyasena. I'm 3rd year Data Science undergraduate at Sri Lanka Institute of Information Technology.</span>
 
+# [Project 3 - Real Estate Price Prediction](https://github.com/DinuAR/Real-Estate-Price-Prediction-Project)
+
+- Use "Bengaluru_House_Data.csv" dataset
+- Data Cleaning
+- Feature Engineering
+- Outlier Removal
+- Model Building
+
+<img width="1164" alt="Screenshot 2022-07-31 at 17 54 25" src="https://user-images.githubusercontent.com/87066711/182026246-5d0671e3-7a03-407f-8bc9-639db58ffaac.png">
+<img width="1164" alt="Screenshot 2022-07-31 at 17 54 41" src="https://user-images.githubusercontent.com/87066711/182026296-fe0acf9a-3497-4a07-bca3-04f3fe6a0eb1.png">
+
+
 # [Project 2 - Spam SMS Classification](https://github.com/DinuAR/Spam-SMS-Classification)
 
 - Use "spam.csv" data set. (Downloaded from Keggle)
